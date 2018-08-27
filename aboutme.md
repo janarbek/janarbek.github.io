@@ -1,16 +1,12 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: Janarbek Matai
+subtitle: 
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+I am a Principal Software engineer at 3D Engineering department of Cognex Corporation. In the past, I held assistant adjunct professor position and lecturer positions at Computer Science and Engineering department of University of California San Diego.   
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+<!--
+### title 
+-->
 
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
