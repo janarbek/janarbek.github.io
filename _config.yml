@@ -7,6 +7,8 @@
 url: "http://janarbek.github.io"
 baseurl: ""
 
+paginate_path: "/blog/page:num/"
+
 # If you are building a GitHub project page then use these settings:
 #url: "http://username.github.io/projectname"
 #baseurl: "/projectname"
@@ -23,10 +25,11 @@ description: Janarbek Matai!
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
+  About Me: "index"
   Projects: "projects"
-  Teaching: "aboutme"
-  Publications: "aboutme"
+  Teaching: "teaching"
+  Publications: "publications"
+  Blog: "blog"
 
 #  Resources:
 #    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
@@ -68,7 +71,7 @@ footer-link-col: "#404040"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Some Person
+  name: JBK
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
@@ -76,9 +79,9 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
   rss: true
-  email: "someone@example.com"
+#  email: "someone@example.com"
 #  facebook: daattali
-  github: janarbek
+#  github: janarbek
   twitter: janarbek
 #  reddit: yourname
 #  google-plus: +DeanAttali
@@ -157,6 +160,7 @@ paginate: 5
 
 kramdown:
   input: GFM
+  parse_block_html: true 
 
 # Default YAML values (more information on Jekyll's site)
 defaults:
