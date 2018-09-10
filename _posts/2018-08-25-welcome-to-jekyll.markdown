@@ -1,25 +1,20 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "The first post!"
 date:   2018-08-25 21:48:00 -0700
-categories: jekyll update
+categories: blog, hls blog
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+This is the first post on HLS (High-Level Synthesis) blog. Most of the posts will be about FPGA, HLS and GPU. 
+Following is a snipped of a code to test. 
 
-Jekyll also offers powerful support for code snippets:
+{% highlight C %}
+void hls_hello_world(int array[])
+  for(int i=0;i<10;i++) {
+    arr[i] = arr[i]*2;  
+  }
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
+#=> Multiply the every element of an array by 2.
 {% endhighlight %}
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+And some random stuff,..

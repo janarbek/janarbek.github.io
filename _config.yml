@@ -162,6 +162,12 @@ kramdown:
   input: GFM
   parse_block_html: true 
 
+
+scholar:
+  style: apa
+  repository: pdf
+  bibliography_template: bibliography
+
 # Default YAML values (more information on Jekyll's site)
 defaults:
   -

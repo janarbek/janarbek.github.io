@@ -3,9 +3,12 @@ layout: page
 title: Publications
 ---
 
-## Recent publications: 
 
-<!--
-### title 
--->
+
+
+[Recent publications](http://cseweb.ucsd.edu/~jmatai/#publications)
+------------------------
+
+
+
 
