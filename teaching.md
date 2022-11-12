@@ -5,6 +5,8 @@ title: Teaching
 ---
 
 ## Classes at UCSD:
+[Summer 2017, WES 237B: Software for Embedded Systems](/publications)
+
 **Summer 2017, WES 237B: Software for Embedded Systems**
 
 ---
