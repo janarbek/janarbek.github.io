@@ -16,7 +16,7 @@ paginate_path: "/blog/page:num/"
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Janarbek Matai Personal
+title: Janarbek Matai
 
 # Short description of your site
 description: Janarbek Matai!
