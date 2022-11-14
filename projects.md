@@ -4,7 +4,7 @@ title: Projects
 ---
 
 
-## Recent projects:
+## Projects (From Ph.D. life):
 **Resolve: Hardware Sorter**: Resolve provides a flexible hardware sorter library(targeted for FPGAs) and framework that generates customized hardware sorter. This is similar to std::sort routine found in standard template library (STL), which selects a specific sorting algorithm from a pool of sorting algorithms. For example, STL uses insertion sort for small lists (less than 15 elements), and then switches to merge sort for larger lists. 
 
 ---
@@ -13,7 +13,7 @@ title: Projects
 
 ---
 
-## Somewhat old projects:
+## Somewhat list of older projects:
 See my [old UCSD page](http://cseweb.ucsd.edu/~jmatai/#Projects)
 
 
