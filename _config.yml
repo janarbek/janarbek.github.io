@@ -25,7 +25,7 @@ description: Janarbek Matai!
 
 # List of links in the navigation bar
 navbar-links:
-  About Me1: "index"
+  About Me: "index"
   Projects: "projects"
   Teaching: "teaching"
   Publications: "publications"
