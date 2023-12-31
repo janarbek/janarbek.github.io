@@ -5,17 +5,17 @@ use-site-title: true
 I work for Qualcomm AI Research, and I work in several interesting and interrelated areas. My primary goal is to make computer vision/machine learning workloads efficient either by designing hardware accelerators or 
 making the models more efficient. 
 
-# Currently I work on following areas 
+# Currently I work on following areas: 
 
-* HW-SW co-design for low power machine learning (full stack optimization of ML from model to hardware level) 
+* HW-SW co-design for low power machine learning (full stack optimization of ML from model to hardware level. Full stack optimization: Quantization, model level optimization, graph level optimization, hardware level optimization) 
 * Efficient 3D computer vision (Sparse 3D convolution) 
 * Emerging AI workloads (LLMs, 3D sparse convolution) on edge devices.  
 * Collaborated extensively with Universities ([UCSD Visual Computing Center](http://visualcomputing.ucsd.edu/), Cornell and many other universities. You can find some of the projects as a result of these collaborations from here.
 
-In the past, I worked on ML compilers (mainly TVM-based).  
+In the past, I worked on ML compilers (mainly TVM-based), and I also briefly worked on MLIR. 
   
 
-# Previous works 
+# Previous works:  
 Previously, I was a Principal Software engineer at the 3D Engineering department of [Cognex Corporation](https://www.cognex.com/), and I have worked on following areas: 
 * FPGA acceleration of computer vision algorithms 
 * End to end design of binary neural network on the FPGA  
