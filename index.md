@@ -5,7 +5,7 @@ use-site-title: true
 I work for Qualcomm AI Research, and I work in several interesting and interrelated areas. My primary goal is to make computer vision/machine learning workloads efficient either by designing hardware accelerators or 
 making the models more efficient. 
 
-# Currently I work on following areas: 
+# Currently I work on following areas:
 
 * HW-SW co-design for low power machine learning (full stack optimization of ML from model to hardware level. Full stack optimization: Quantization, model level optimization, graph level optimization, hardware level optimization) 
 * Efficient 3D computer vision (Sparse 3D convolution) 
@@ -15,13 +15,18 @@ making the models more efficient.
 In the past, I worked on ML compilers (mainly TVM-based), and I also briefly worked on MLIR. 
   
 
-# Previous works:  
+# Previous work  
 Previously, I was a Principal Software engineer at the 3D Engineering department of [Cognex Corporation](https://www.cognex.com/), and I have worked on following areas: 
 * FPGA acceleration of computer vision algorithms 
 * End to end design of binary neural network on the FPGA  
 
 I contributed to the high speed DSMAX product line of Cognex which can be found here:  [DSMAX 3D LASER DISPLACEMENT SENSOR](https://www.cognex.com/videos/3d-sensors/dsmax-3d-laser-displacement-sensor)
 
+
+
+# Academic life 
+* Parallel Programming for FPGAs which I contributed (developed most of labs and demos) is used by many Universities around the world starting from UCSD, Cornell, UT Austin, UC Berkeley,..and many others.  
+* This book has nice tutorial/demo page here: [Parallel Programming for FPGAs](https://pp4fpgas.readthedocs.io/en/latest/), 
 
 In my academic life, I completed my PhD in Computer Science from the [Computer Science and Engineering](https://cse.ucsd.edu/) department of [UCSD](https://www.ucsd.edu). I was a Masters's student at ICU (Information and Communications University) which is now part of [Korea Advanced Institute of Science and Technology](http://www.kaist.edu/html/en/index.html). 
 I obtained my Bachelor of Science in Computer Science from the [Mongolian University of Science and Technology](http://www.must.edu.mn/eng/). 
