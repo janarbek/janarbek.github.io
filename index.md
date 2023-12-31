@@ -24,15 +24,16 @@ I contributed to the high speed DSMAX product line of Cognex which can be found 
 
 
 
-# Academic life 
+# Parallel Programming for FPGAs Book  
 * Parallel Programming for FPGAs which I contributed (developed most of labs and demos) is used by many Universities around the world starting from UCSD, Cornell, UT Austin, UC Berkeley,..and many others.  
 * This book has nice tutorial/demo page here: [Parallel Programming for FPGAs](https://pp4fpgas.readthedocs.io/en/latest/), 
-* I completed my PhD in Computer Science from the [Computer Science and Engineering](https://cse.ucsd.edu/) department of [UCSD](https://www.ucsd.edu). I was a Masters's student at ICU (Information and Communications University) which is now part of [Korea Advanced Institute of Science and Technology](http://www.kaist.edu/html/en/index.html). 
-I obtained my Bachelor of Science in Computer Science from the [Mongolian University of Science and Technology](http://www.must.edu.mn/eng/). 
 
+***Academic life:*** I completed my PhD in Computer Science from the [Computer Science and Engineering](https://cse.ucsd.edu/) department of [UCSD](https://www.ucsd.edu). I was a Masters's student at ICU (Information and Communications University) which is now part of [Korea Advanced Institute of Science and Technology](http://www.kaist.edu/html/en/index.html). 
+I obtained my Bachelor of Science in Computer Science from the [Mongolian University of Science and Technology](http://www.must.edu.mn/eng/). 
 Other than my current job, I occasionally teach at the Computer Science and Engineering department of the University of California San Diego as a lecturer and an adjunct professor. A long time ago I was in South Korea where I worked for [ETRI](https://www.etri.re.kr/eng/main/main.etri) as a researcher for a couple of years. 
 
-My general interests are applications of hw acceleration of ML (3D, deep earning, ML), tinyML, ML-based ISP, and computer vision, deep learning compilers.  I am also interested in computer architecture and high-performance computing. 
+My general interests are applications of hw acceleration of ML (LLMs, Transformers, 3D, deep earning, ML), tinyML, ML-based ISP, and computer vision, deep learning compilers.  
+I am also interested in computer architecture, parallel programming and ML compilers 
 
 
 [CV]({{janarbek.github.io}}/assets/JanarbekMatai.pdf)
