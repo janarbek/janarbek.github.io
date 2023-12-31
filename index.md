@@ -3,10 +3,27 @@ layout: page
 use-site-title: true
 ---
 I work for Qualcomm AI Research, and I work in several interesting and interrelated areas. My primary goal is to make computer vision/machine learning workloads efficient either by designing hardware accelerators or 
-making the models more efficient. I have initiated a 3D computer vision team focusing on efficiency within Qualcomm AI. I am also the founder of the hw-sw co-design team for efficient ML. 
-I have worked extensively with Universities ([UCSD Visual Computing Center](http://visualcomputing.ucsd.edu/) and [Qualcomm](https://www.qualcomm.com/)) for joint projects which (some of them I initiated) resulted in fruitful collaborations.  
+making the models more efficient. 
 
-Previously, I was a Principal Software engineer at the 3D Engineering department of [Cognex Corporation](https://www.cognex.com/). Around 2015, I completed my PhD in Computer Science from the [Computer Science and Engineering](https://cse.ucsd.edu/) department of [UCSD](https://www.ucsd.edu). I was a Masters's student at ICU (Information and Communications University) which is now part of [Korea Advanced Institute of Science and Technology](http://www.kaist.edu/html/en/index.html). 
+# Currently I work on following areas 
+
+* HW-SW co-design for low power machine learning (full stack optimization of ML from model to hardware level) 
+* Efficient 3D computer vision (Sparse 3D convolution) 
+* Emerging AI workloads (LLMs, 3D sparse convolution) on edge devices.  
+* Collaborated extensively with Universities ([UCSD Visual Computing Center](http://visualcomputing.ucsd.edu/), Cornell and many other universities. You can find some of the projects as a result of these collaborations from here.
+
+In the past, I worked on ML compilers (mainly TVM-based).  
+  
+
+# Previous works 
+Previously, I was a Principal Software engineer at the 3D Engineering department of [Cognex Corporation](https://www.cognex.com/), and I have worked on following areas: 
+* FPGA acceleration of computer vision algorithms 
+* End to end design of binary neural network on the FPGA  
+
+I contributed to the high speed DSMAX product line of Cognex which can be found here:  [DSMAX 3D LASER DISPLACEMENT SENSOR](https://www.cognex.com/videos/3d-sensors/dsmax-3d-laser-displacement-sensor)
+
+
+In my academic life, I completed my PhD in Computer Science from the [Computer Science and Engineering](https://cse.ucsd.edu/) department of [UCSD](https://www.ucsd.edu). I was a Masters's student at ICU (Information and Communications University) which is now part of [Korea Advanced Institute of Science and Technology](http://www.kaist.edu/html/en/index.html). 
 I obtained my Bachelor of Science in Computer Science from the [Mongolian University of Science and Technology](http://www.must.edu.mn/eng/). 
 
 Other than my current job, I occasionally teach at the Computer Science and Engineering department of the University of California San Diego as a lecturer and an adjunct professor. A long time ago I was in South Korea where I worked for [ETRI](https://www.etri.re.kr/eng/main/main.etri) as a researcher for a couple of years. 
