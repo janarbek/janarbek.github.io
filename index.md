@@ -7,8 +7,8 @@ making the models more efficient. I also teach at University of California, San 
 
 # Currently I work on following areas:
 
-* HW-SW co-design for low power machine learning (full stack optimization of ML from model to hardware level. Full stack optimization: Quantization, model level optimization, graph level optimization, hardware level optimization) 
-* Efficient 3D computer vision 
+* Full stack machine learning: HW-SW co-design for low power machine learning (full stack optimization of ML from model to hardware level. Full stack optimization: Quantization, model level optimization, graph level optimization, hardware level optimization) 
+* Efficient large language models (mostly focused on the state space models and hybrid self-attention)
 * Emerging AI workloads (LLMs, 3D vision, 3D sparse convolution) on edge devices.  
 * Collaborated extensively with Universities ([UCSD Visual Computing Center](http://visualcomputing.ucsd.edu/), Cornell and many other universities. You can find some of the projects as a result of these collaborations from here.
 
