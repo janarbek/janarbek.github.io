@@ -2,7 +2,7 @@
 layout: page
 use-site-title: true
 ---
-Currently, I work for Qualcomm AI Research, and I work in several interesting and interrelated areas. My primary goal is to make computer vision/machine learning workloads efficient either by designing hardware accelerators or 
+I work on AI/ML at AMD. Previously, I was with Qualcomm AI Research, and I worked in several interesting and interrelated areas. My primary goal is to make computer vision/machine learning workloads efficient either by designing hardware accelerators or 
 making the models more efficient. I also teach at University of California, San Diego for Master of Advanced Studies Program. You can find more about Master of Advanced Studies program here:  https://jacobsschool.ucsd.edu/mas/faculty-staff  
 
 # Currently I work on following areas:
